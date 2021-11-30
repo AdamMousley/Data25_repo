@@ -1,0 +1,2 @@
+open("employees.txt","r")
+
